@@ -36,7 +36,7 @@ class Andryan:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,23 +46,19 @@ class Andryan:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🩺 EchoSense AI
+### EchoSense AI
 
-AI-powered hearing assessment & healthcare platform.
+AI-powered tinnitus assessment & rehabilitation platform with personalized hearing and psychoacoustic assessments.
 
-### 🌾 GramSentinel
+### Click
 
-Multi-agent AI healthcare early-warning system.
+an interactive C programming platform that turns coding concepts into visual, hands-on learning experiences with guided chapters, challenges, and practice.
 
-### 💻 Click
+### RAGScope
 
-Programming learning platform with VS Code integration.
-
-### 🧠 FedScope-India
-
-Federated learning & privacy-preserving AI.
+A research framework for diagnosing, validating, and self-healing failures in Agentic RAG systems through causal tracing, counterfactual testing, targeted repair, and independent verification.
 
 ---
 
