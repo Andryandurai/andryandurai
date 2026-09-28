@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-```python
+<pre>
 class Andryan:
 
     education = "B.Tech AI & Data Science"
@@ -32,33 +32,68 @@ class Andryan:
     ]
 
     goal = "Build useful AI-powered products 🚀"
+</pre>
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,react,vite,tailwind,django,flask,postgres,mongodb,supabase,docker,git,github" /> </p>
-🚀 Featured Projects
+---
 
-🩺 EchoSense AI
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,react,vite,tailwind,django,flask,postgres,mongodb,supabase,docker,git,github" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 EchoSense AI
+
 AI-powered hearing assessment & healthcare platform.
 
-🌾 GramSentinel
+### 🌾 GramSentinel
+
 Multi-agent AI healthcare early-warning system.
 
-💻 Click
+### 💻 Click
+
 Programming learning platform with VS Code integration.
 
-🧠 FedScope-India
+### 🧠 FedScope-India
+
 Federated learning & privacy-preserving AI.
 
-🏆 Achievements
+---
 
-🏆 SIH Internal Round Winner
-🏆 Smart Ability Hackathon Winner
-🤖 AI & Generative AI Internships
+## 🏆 Achievements
 
-📊 GitHub Stats
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Andryandurai&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andryandurai&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🔗 Connect With Me
-<div align="center"> <a href="https://github.com/Andryandurai"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
+🏆 3x Hackathon Winner (SIH'26 Internal Hackathon winner)
+
+🏆 National Level Project @ NIEPMD
+
+🤖 AI Intern @ Rajalakshmi Engineering College
+
+---
+
+## 🔗 Connect With Me
+
 <div align="center">
-🚀 Build • Learn • Create
-</div> ```
+
+<a href="https://github.com/Andryandurai">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Build • Learn • Create
+
+</div>
