@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <pre>
 class Andryan:
@@ -62,13 +62,15 @@ A research framework for diagnosing, validating, and self-healing failures in Ag
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-🏆 3x Hackathon Winner (SIH'26 Internal Hackathon winner)
+3x Hackathon Winner (SIH'26 Internal Hackathon winner)
 
-🏆 National Level Project @ NIEPMD
+National Level Project @ NIEPMD
 
-🤖 AI Intern @ Rajalakshmi Engineering College
+AI Intern @ Rajalakshmi Engineering College
+
+Completed 15+ Projects (6 Consultation Projects)
 
 ---
 
